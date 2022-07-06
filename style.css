@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.donate-now {
+    padding: 80px 280px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.link-button {
+    color: #FFFFFF;
+    background-color: #FF5959;
+    border-radius: 5px;
+    padding: 20px 40px;
+    text-decoration: none;
+}
+
+.donate-today {
+    padding: 0px 300px;
+}
+
+.title {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+.flexible-button {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    height: 60px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #707070;
+    padding: 20px 10px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+#orange-box {
+    background: #FFEEEE;
+    border: 1px solid #FF5959;
+    color: #FF5959;
+}
+
+.other-amount {
+    text-align: center;
+}
+
+input {
+    margin-bottom: 5%;
+    margin-top: 5%;
+    width: 100%;
+    text-align: center;
+    color: #B3B3B3;
+    border: none;
+    border-bottom: 1px solid #DADADA;
+    padding: 10px;
+    outline: none;
+}
+
+input focus {
+    border-bottom: 1px solid black;
+}
