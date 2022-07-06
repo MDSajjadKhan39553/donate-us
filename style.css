@@ -110,3 +110,16 @@ input focus {
 .education {
     background: #FFF4D6;
 }
+
+.donate-count {
+    background-color: #FF5959;
+    margin: 2% 0;
+
+}
+
+.count-width {
+    padding: 2% 5%;
+    text-align: center;
+    width: 50%;
+    font-family: 'Inter', sans-serif;
+}
